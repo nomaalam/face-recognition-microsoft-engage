@@ -49,3 +49,5 @@ Tools and Frameworks used for the app-
 Languages used-
 * Python (For building the model)
 * Dart (For building the mobile app)
+
+Link to my Emotion Detection project source code- https://github.com/nomaalam/emotion-detection-app
