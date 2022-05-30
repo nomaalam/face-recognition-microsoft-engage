@@ -7,12 +7,14 @@ This means that for adding new faces, we don't need to train the model again. Th
 This system of face recognition employed in this project can be used for facial verification in any android app.
 
 
-## Fetures-
+## Features-
 1. [Add new faces](https://drive.google.com/file/d/1fesJvu94vWhmr6D0Brr6vglW2wjD7RWj/view?usp=sharing) and [save them](https://drive.google.com/file/d/1fNYD4gtMcAOvLbDienPzKC60DIA4ezA_/view?usp=sharing).
 2. [Clear all](https://drive.google.com/file/d/1fC0Lmy0XAymcNEFYg_DIYRjLjijc5jSz/view?usp=sharing) recognition. 
 3. [Clear selective](https://drive.google.com/file/d/1f4Z9-qQCXrtid5YC9IpblqkHhq0G5dI4/view?usp=sharing) recognitions.
 4. Add photo from [gallery](https://drive.google.com/file/d/1fIqUrUlHrgw55lENA5ngyJhyGMsEJ60l/view?usp=sharing).
 5. [View all](https://drive.google.com/file/d/1fN8d0tiigM_pYIdxscPw9akDuWW5IoFk/view?usp=sharing) recognitions.
+
+[Screenshots of the these features are hyperlinked]
 
 
 ## Languages used-
